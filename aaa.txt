@@ -1,1 +1,1 @@
-hello git --->king---->master 1 --> master 3
+hello git --->king---->master 1
